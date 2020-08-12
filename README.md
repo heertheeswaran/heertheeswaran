@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-a firnedly neighbourhood programmer
+a firendly neighbourhood programmer
