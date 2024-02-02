@@ -11,7 +11,7 @@ I'm Head of Engineering at [Skcript](https://skcript.com). I enjoy fixing things
 
 -  🔭&nbsp; I’m currently building [featureOS](https://featureos.app).
 -  🦋&nbsp; Contributing to [Kaalam - a raycast extension](https://www.raycast.com/heerthees/kaalam).
--  🌱&nbsp; I’m currently learning to get better at architecture.
+-  🌱&nbsp; I’m currently learning to get better at cloud technologies.
 -  💬&nbsp; Ask me about (Ruby || Python || Javascript || AWS).
 -  💯&nbsp; Obsessed with writing clean & maintainable code.
 -  ⚡️&nbsp; A friendly neighbourhood programmer 🕷️
