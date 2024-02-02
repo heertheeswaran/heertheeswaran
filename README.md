@@ -1,11 +1,19 @@
-### Hi there 👋
+### hello_world() <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## :rainbow: :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=heertheeswaran alt=heertheeswaran/></p>
+<p align="left">
+  <img src=https://komarev.com/ghpvc/?username=heertheeswaran alt=heertheeswaran/>
+  <a href="https://twitter.com/intent/follow?screen_name=heerthees&tw_p=followbutton">
+    <img src="https://img.shields.io/twitter/follow/heerthees?label=%40Heerthees&style=social">
+  </a>
+</p>
 
-a firendly neighbourhood programmer
+I'm a Senior Software Engineer at [Skcript](https://skcript.com). I love solving problems.
 
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heertheeswaran" alt="heertheeswaran" /></p>
-
-<img src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-2f32b345-e5ea-4efa-87b2-f04024aa0dc8-v1.png?transparent=1&palette=1" alt=heertheeswaran/></p>
+-  🔭&nbsp; I’m currently building [featureOS](https://featureos.app).
+-  🦋&nbsp; Contributing to [Kaalam - a raycast extension](https://www.raycast.com/heerthees/kaalam).
+-  🌱&nbsp; I’m currently learning to get better at architecture.
+-  💬&nbsp; Ask me about (Ruby || Python || Javascript || AWS).
+-  💯&nbsp; Obsessed with writing clean & maintainable code.
+-  ⚡️&nbsp; A friendly neighbourhood programmer 🕷️
+  
+Reach me on [Twitter](https://twitter.com/heerthees).
