@@ -7,7 +7,7 @@
   </a>
 </p>
 
-I'm a Senior Software Engineer at [Skcript](https://skcript.com). I love solving problems.
+I'm Head of Engineering at [Skcript](https://skcript.com). I enjoy fixing things and figuring out solutions to problems.
 
 -  🔭&nbsp; I’m currently building [featureOS](https://featureos.app).
 -  🦋&nbsp; Contributing to [Kaalam - a raycast extension](https://www.raycast.com/heerthees/kaalam).
